@@ -1,0 +1,11 @@
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\bin\Release\BUS.dll
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\bin\Release\BUS.pdb
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\bin\Release\DAL.dll
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\bin\Release\DTO.dll
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\bin\Release\DAL.pdb
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\bin\Release\DTO.pdb
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\obj\Release\BUS.dll
+D:\Project\OnRentCarSystem_Midterm_DotNET\BUS\obj\Release\BUS.pdb

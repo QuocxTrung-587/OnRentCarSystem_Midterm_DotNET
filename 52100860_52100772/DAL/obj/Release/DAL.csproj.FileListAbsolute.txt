@@ -1,0 +1,9 @@
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\bin\Release\DAL.dll
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\bin\Release\DAL.pdb
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\bin\Release\DTO.dll
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\bin\Release\DTO.pdb
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\obj\Release\DAL.dll
+D:\Project\OnRentCarSystem_Midterm_DotNET\DAL\obj\Release\DAL.pdb
